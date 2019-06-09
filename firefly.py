@@ -25,7 +25,7 @@ class color:
    FAIL = '\033[91m'
 
 class config:
-	key = "" #go to https://numverify.com/
+	key = "2c7877cdb36b3dd0c059b0e84e487236" #go to https://numverify.com/
 
 def banner():
 	os.system('clear')
